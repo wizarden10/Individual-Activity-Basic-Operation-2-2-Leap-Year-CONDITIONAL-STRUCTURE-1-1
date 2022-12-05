@@ -1,0 +1,19 @@
+
+public class BasicOperation {
+
+	public static void main(String[] args) {
+
+		// TODO Auto-generated method stub
+		//created a random value
+		int x = 1;
+		double y = 2;
+		int z = 4;
+		
+		double S = x + y + z;
+		double A = S / 3;
+		double P = x * y * z;
+		
+		System.out.println("Display Sum:" + S + "\nDisplay Average:" + A + "\nDisplay Product:" + P);
+
+	}
+
